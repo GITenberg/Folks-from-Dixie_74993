@@ -1,0 +1,42 @@
+_repo: Folks-from-Dixie_74993
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kemble, E. W. (Edward Windsor)
+    aliases:
+    - Kemble, Edward Windsor
+    - Kemble, E. W. (Edward Winsor)
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '37155'
+    url: http://www.gutenberg.org/2009/agents/37155
+    wikipedia: https://en.wikipedia.org/wiki/E._W._Kemble
+creator:
+  author:
+    agent_name: Dunbar, Paul Laurence
+    birthdate: 1872
+    deathdate: 1906
+    gutenberg_agent_id: '6269'
+    url: http://www.gutenberg.org/2009/agents/6269
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
+description: ''
+gutenberg_issued: '2024-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74993'
+language: en
+pgterms:marc904: https://archive.org/details/folksfromdixie00dunb/page/n9/mode/2up
+pgterms:marc905: 20220205130802dunbar
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bDodd, Mead and Company, $c1897, copyright 1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Folks from Dixie
+url: http://www.gutenberg.org/ebooks/74993
