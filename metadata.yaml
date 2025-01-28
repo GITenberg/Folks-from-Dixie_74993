@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '37155'
     url: http://www.gutenberg.org/2009/agents/37155
     wikipedia: https://en.wikipedia.org/wiki/E._W._Kemble
+covers:
+- cover_type: archival
+  image_path: 74993-h/images/cover.jpg
 creator:
   author:
     agent_name: Dunbar, Paul Laurence
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6269
     wikipedia: https://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74993#Folks-from-Dixie
 gutenberg_issued: '2024-12-29'
 gutenberg_type: Text
 identifiers:
